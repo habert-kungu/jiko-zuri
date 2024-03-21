@@ -1,0 +1,2 @@
+function wpcom_custom_jumplist_reader(){window.external.msSiteModeCreateJumplist("Recent posts");window.external.msSiteModeAddJumpListItem("Hello World!","https://jikozuri.wordpress.com/2024/02/26/hello-world/","https://jikozuri.files.wordpress.com/2024/02/whatsapp-image-2024-02-26-at-11.59.13-am-1.jpeg?w=16");}
+try{if(window.external && 'msIsSiteMode' in window.external){if (window.external.msIsSiteMode()){wpcom_custom_jumplist_reader();wpcom_sitemode_comment_notify();}}}catch(e){}
